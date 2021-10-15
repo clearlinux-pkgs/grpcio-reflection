@@ -4,7 +4,7 @@
 #
 Name     : grpcio-reflection
 Version  : 1.41.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/d8/98/a9f097f9ecc1791b4189eea74acadc89c72b4bce0435a3f72db9a06c1587/grpcio-reflection-1.41.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d8/98/a9f097f9ecc1791b4189eea74acadc89c72b4bce0435a3f72db9a06c1587/grpcio-reflection-1.41.0.tar.gz
 Summary  : Standard Protobuf Reflection Service for gRPC
