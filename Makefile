@@ -1,5 +1,5 @@
 PKG_NAME := grpcio-reflection
-URL = https://files.pythonhosted.org/packages/b7/ee/afc17aaf1980de8a7c81c3e35e09cc10aac21dc8f78b77fe8f820dffd080/grpcio-reflection-1.42.0.tar.gz
+URL = https://files.pythonhosted.org/packages/7d/fa/d1d825c553dce4730774723ef1923fb6c2ab138f484fef8503ec7f7ac024/grpcio-reflection-1.43.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
